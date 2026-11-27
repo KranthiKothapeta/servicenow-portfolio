@@ -1,0 +1,8 @@
+# ServiceNow Basics (Level 0)
+
+- ServiceNow is a database with a web interface.
+- Table = whole notebook. Record = one row. Field = one column.
+- List = many records. Form = one record.
+- Update set = recording of configuration changes. Only the current one records.
+- Incident records are data, not configuration, so they are not in update sets.
+- URLs: /incident_list.do opens a list, /incident.do opens a new form.
